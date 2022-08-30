@@ -1,5 +1,4 @@
 # Elections On Blockchain (Flutter + Blockchain)
-## Project 6
 
 A basic blockchain and flutter based project.
 
